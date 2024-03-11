@@ -1,4 +1,4 @@
 <?php include('header.php') ?>
 <?php include('sidebar.php') ?>
-ggggggggggg
+admin
 <?php include('footer.php') ?>

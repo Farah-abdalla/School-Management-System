@@ -59,7 +59,7 @@ $password = "admin@sms";
       $_SESSION['email'] =   $getemail ;
       $_SESSION['password'] = $getpassword;
       echo"<script> location.replace('index.php') </script>" ;
-      // header('Location:index.php');
+      // header('Location: ../admin/dashboard.php');
      }  else {
       echo 'Invailid Credentials';
     }
